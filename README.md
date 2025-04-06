@@ -17,6 +17,8 @@ I'm a passionate data scientist and speaker with over five years of experience i
   
 - **[Google DevFest](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-pre-devfest-nairobi-series-responsible-ai/)**  
   Accountability in AI: Who’s Responsible When Machines Decide?.
+- **[KEPSA](https://x.com/KEPSA_KENYA/status/1666711886052708353)
+  How to keep and use Data for your Business   
 
 - **Additional Talks & Workshops:**  
   Explore more of my speaking engagements and workshops on my [LinkedIn](https://linkedin.com/in/yourprofile).

@@ -15,11 +15,11 @@ I'm a passionate data scientist and speaker with over five years of experience i
 - **[First Experts Live Kenya](https://www.expertslive.ke/team-members/brackly-murunga/)**  
   Privacy-Preserving Framework for collaborative machine Learning on sensitive Data
   
-- **[Google DevFest]([https://example.com/google-devfest](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-pre-devfest-nairobi-series-responsible-ai/))**  
+- **[Google DevFest](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-pre-devfest-nairobi-series-responsible-ai/)**  
   Accountability in AI: Who’s Responsible When Machines Decide?.
 
 - **Additional Talks & Workshops:**  
-  Explore more of my speaking engagements and workshops on my [website](https://example.com) or [LinkedIn](https://linkedin.com/in/yourprofile).
+  Explore more of my speaking engagements and workshops on my [LinkedIn](https://linkedin.com/in/yourprofile).
 
 ## Selected Works
 

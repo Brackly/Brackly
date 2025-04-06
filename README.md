@@ -1,8 +1,8 @@
 # Hi, I'm Brackly Murunga  👋
 
-I probably talk python fluently than I do English..but that is debatable.
+I probably talk python fluently than I do English.. but that is debatable.
 
-'m a passionate data scientist and speaker with over five years of experience in machine learning and data science. I love sharing insights, mentoring aspiring professionals, and exploring innovative solutions in technology.
+I'm a passionate data scientist and speaker with over five years of experience in machine learning and data science. I love sharing insights, mentoring aspiring professionals, and exploring innovative solutions in technology.
 
 ## About Me
 

@@ -34,7 +34,7 @@ I'm a passionate data scientist and speaker with over five years of experience i
 
 ## Get in Touch
 
-I'm always excited to connect with like-minded professionals. Feel free to reach out via:
+Since, you read the profile all the way, you might as well! I'm always excited to connect with like-minded professionals. Feel free to reach out via:
 
 - **Email:** [khanbrackly@gmail.com](mailto:your.khanbrackly@gmail.com)
 - **LinkedIn:** [Brackly Murunga](https://www.linkedin.com/in/brackly-murunga-52817311a/)

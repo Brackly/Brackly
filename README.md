@@ -17,8 +17,8 @@ I'm a passionate data scientist and speaker with over five years of experience i
   
 - **[Google's DevFest](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-pre-devfest-nairobi-series-responsible-ai/)**  
   Accountability in AI: Who’s Responsible When Machines Decide?.
+- [AWS Community Day](https://awsusergroupkenya.co.ke/) Scaling LLM Fine-tuning with Dask on AWS
 - [Write the Docs](https://www.writethedocs.org/conf/kenya/2025/speakers/) Turbocharge Your Docs: Leveraging GenAI for Rapid Documentation Prototyping
-- 
 - **[Kenya Private Sector Alliance (KEPSA)](https://x.com/KEPSA_KENYA/status/1666711886052708353)** 
   How to keep and use Data for your Business   
 

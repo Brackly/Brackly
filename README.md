@@ -31,7 +31,7 @@ Aside from that, I love sharing insights, mentoring aspiring professionals, and 
 ## Selected Works
 
 - **Blog & Articles:**  
-  I regularly publish insights on machine learning, data analysis, and emerging technologies. Check out my latest posts on [Medium](https://brackly.medium.com/) or my [Machine Learning griot blog](https://mlgriot.com/).
+  I regularly publish insights on machine learning, data analysis, and emerging technologies. Check out my latest posts on [Medium](https://brackly.medium.com/) or my [Linked in blog](https://mlgriot.com/](https://www.linkedin.com/in/brackly-murunga-52817311a/).
 
 - **Open Source Contributions:**  
   I'm an active contributor in the open source community. Explore my projects and collaborations on [GitHub](https://github.com/Brackly).
